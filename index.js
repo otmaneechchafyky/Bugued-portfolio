@@ -9,7 +9,7 @@ xBtn.addEventListener('click', showHide);
 
 //  Work Projects Data
 
-const projects = [
+const project = [
   {
     name: 'Multi Post Stories',
     img: './Assets/ex.png',
